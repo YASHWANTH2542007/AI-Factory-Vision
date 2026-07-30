@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+data/videos/*.mp4
+data/datasets/*
+models/*.pt
+!models/.gitkeep
+reports/*.csv
+reports/*.pdf
+.streamlit/
+.DS_Store
